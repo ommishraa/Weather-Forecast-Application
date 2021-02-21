@@ -1,0 +1,11 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/mishraom/Flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.14.0+2/
+cloud_firestore_web=/home/mishraom/Flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore_web-0.2.0+1/
+firebase_analytics=/home/mishraom/Flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics-6.0.0/
+firebase_analytics_web=/home/mishraom/Flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_analytics_web-0.1.1/
+firebase_auth=/home/mishraom/Flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.18.0+1/
+firebase_auth_web=/home/mishraom/Flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.3.0+1/
+firebase_core=/home/mishraom/Flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.5.0/
+firebase_core_web=/home/mishraom/Flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.2.0/
+google_sign_in=/home/mishraom/Flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.5.3/
+google_sign_in_web=/home/mishraom/Flutter_sdk/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.9.1+1/
